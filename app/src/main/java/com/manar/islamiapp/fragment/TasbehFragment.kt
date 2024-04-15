@@ -6,7 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.manar.islamiapp.R
-import com.manar.islamiapp.databinding.FragmentQuraanBinding
 import com.manar.islamiapp.databinding.FragmentTasbehBinding
 
 class TasbehFragment:Fragment() {
@@ -20,7 +19,7 @@ class TasbehFragment:Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState : Bundle?
-    ): View?{
+    ): View{
         binding =FragmentTasbehBinding.inflate(inflater)
         return binding.root
     }

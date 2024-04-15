@@ -3,6 +3,9 @@
     <string name="islami">إسلامي</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tasbeh_counter">عدد التسبيحات</string>
+    <string name="counter">0</string>
+    <string name="dhikr_name">سبحان الله</string>
     <array name="azkarList">
         <item>سبحان الله</item>
         <item>الحمد لله</item>
