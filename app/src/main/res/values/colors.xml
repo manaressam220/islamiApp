@@ -4,4 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="gold"> #b7935f</color>
     <color name="variantPrimary">#FF81602F</color>
+    <color name="dhikr"> #B7935F
+    </color>
+
 </resources>
